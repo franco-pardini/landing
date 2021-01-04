@@ -33,7 +33,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/landing/",
+  "start_url": "/landing/index.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#61cde4",
