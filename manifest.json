@@ -8,27 +8,27 @@
       "sizes": "48x48"
     },
     {
-      "src": "/img/icon-144x144.png",
+      "src": "Img/icon-144x144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/img/iconn-192x192.png",
+      "src": "Img/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icon-256x256.png",
+      "src": "Img/icon-256x256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "/img/icon-384x384.png",
+      "src": "Img/icon-384x384.png",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "/img/icon-512x512.png",
+      "src": "Img/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
