@@ -12,6 +12,38 @@ body {
 	
 	height: 100vh;
 }
+.popUp {
+	width: 70%;
+	margin-right: 15%;
+	margin-left: 15%;
+	height: 55px;
+	position: fixed;
+	bottom: 0px;
+	right: 0px; 
+	background-color: rgb(237, 239, 245);
+	border-radius: 5px;
+	z-index: 9;
+	box-shadow: 2px 4px 4px 4px  rgb(0,0,0,0.4);
+} 
+.addHome {
+	margin: 30px;
+	background-color: #61cde4; 
+	color: #f5f8fd; 
+	border-radius: 10px;
+	font-size: 13px;
+    font-weight: 550; 
+	width: 150; 
+	height: 35px; 
+	box-shadow: 3px 3px 3px  rgb(0,0,0,0.4);
+} 
+
+.floatButton{
+	bottom: 30px;
+	right: 30px;			
+	position: fixed;			
+	z-index:1;
+}
+
 
 .floatButton{
 	bottom: 30px;
